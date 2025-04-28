@@ -50,4 +50,4 @@ python encryptor.py <путь_к_входному.exe> <путь_к_выходн
 
 ## Автор
 
-Разработано с ❤️ [https://lavrcode.t.me/](LavrCode)
+Разработано с ❤️ [LavrCode](https://lavrcode.t.me/)
