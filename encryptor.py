@@ -2,7 +2,6 @@ import os
 import base64
 import math
 import argparse
-import ctypes
 import secrets
 import string
 import json
